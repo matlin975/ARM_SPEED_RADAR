@@ -3,7 +3,7 @@ Speed measuring device using a doppler radar with an ARM Cortex M4 microprocesso
 
 
 <p align="center">
-  <img src="https://github.com/matlin975/ARM_SPEED_RADAR/blob/main/pcb.png"/>
+  <img src="https://github.com/matlin975/ARM_SPEED_RADAR/blob/main/hardware.png"/>
 </p>
 
 <p align="center">
